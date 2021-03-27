@@ -1,0 +1,3 @@
+#npm install
+
+#node run-tfjs-model.js imagepath/egs...
